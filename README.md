@@ -9,4 +9,4 @@ A numerical study of why Saturn's rings have gaps. Ring particles are modelled a
 
 This was my Year 1 independent essay at the University of Birmingham (March 2025), written in LaTeX with simulations in Python.
 
- **Full report (9 pages):** [`report/saturn-rings-report.pdf`](report/saturn-rings-report.pdf)
+ **Full report (9 pages):** [`report/saturn-rings-report.pdf`]([report/saturn-rings-report.pdf](https://github.com/Ruazokyrtap/Saturn-RIngs-Simulation/blob/main/Saturn_rings_essay.pdf))
