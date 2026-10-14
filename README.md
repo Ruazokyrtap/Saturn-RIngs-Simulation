@@ -1,4 +1,4 @@
 # Saturn-RIngs-Simulation
 
 
-Original Year 1 project; code archived and not maintained 
+Original Year 1 University project; code archived and not maintained 
