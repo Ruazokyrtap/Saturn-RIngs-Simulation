@@ -1,4 +1,4 @@
-# Saturn-RIngs-Simulation
+# Saturn-Rings-Simulation
 
 
 Original Year 1 University project; code archived and not maintained 
